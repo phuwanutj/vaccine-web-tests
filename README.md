@@ -35,4 +35,7 @@ robot vaccine_test.robot
 In my personal opinion, the robot framework is a better choice because it is a lot easier to use and it is more flexible. 
 
 ## What tutorial or online resource(s) did you find most helpful for learning Robot Framework?
+
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+
 I found this website to be the most useful to me because it list the keyword one by one and explain what each one do and what argument to use with the keyword.
