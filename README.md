@@ -22,9 +22,9 @@ pip install robotframework
 pip install selenium
 ```
 
-5. Install Selenium2Library for robotframework.
+5. Install SeleniumLibrary for robotframework.
 ```
-pip install robotframework-selenium2library
+pip install robotframework-seleniumlibrary
 ```
 
 6. Run the test.
