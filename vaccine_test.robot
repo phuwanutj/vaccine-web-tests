@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation     Play around with selenium library
 ...               more documentation
-Library           Selenium2Library
+Library           SeleniumLibrary
 
 *** Variables ***
 ${SITE_URL}    https://vaccine-haven.herokuapp.com/
